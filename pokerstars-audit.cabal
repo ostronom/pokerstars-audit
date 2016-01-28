@@ -1,8 +1,8 @@
-name:                mtt-pstats
+name:                pokerstars-audit
 version:             0.1.0.0
 synopsis:            PokerStars playing history audit parser
 description:         Please see README.md
-homepage:            http://github.com/ostronom/mtt-pstats#readme
+homepage:            http://github.com/ostronom/pokerstars-audit#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Alexander Golubev, Konstantin Kirillov
