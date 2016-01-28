@@ -1,13 +1,13 @@
 name:                mtt-pstats
 version:             0.1.0.0
-synopsis:            Initial project template from stack
+synopsis:            PokerStars playing history audit parser
 description:         Please see README.md
-homepage:            http://github.com/githubuser/mtt-pstats#readme
+homepage:            http://github.com/ostronom/mtt-pstats#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2010 Author Here
+author:              Alexander Golubev, Konstantin Kirillov
+maintainer:          k.kirillov@mttmarket.com
+copyright:           2016 Alexander Golubev, Konstantin Kirillov
 category:            Web
 build-type:          Simple
 -- extra-source-files:
